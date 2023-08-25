@@ -1,2 +1,2 @@
-- 
-+ [Tp teorico Sintaxis] (file:///D:/Usuarios/Facu/Descargas/aSintaxis_%20tp_te%C3%B3rico.pdf)
+Entrega del TP teorico sintaxis 
+Cursada K2055 2023 
