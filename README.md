@@ -1,3 +1,7 @@
 Entrega del TP teorico sintaxis 
-Cursada K2055 2023 
+
+Cursada K2055 
+
+2023 
+
 Grupo 32
